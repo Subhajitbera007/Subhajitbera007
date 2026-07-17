@@ -22,7 +22,7 @@ const subhajit = {
   title: "CS Student",
   stack: ["Java", "DSA", "Software Development"],
   launchedProjects: [], // 🚧 nothing shipped yet — but working on it!
-  certifications: [],
+  certifications: ["Programming in Java,NPTEL"],
   status: "Learning & building daily 🚀",
   openTo: ["Collaboration", "Learning Opportunities", "Open Source"],
 };
@@ -35,6 +35,7 @@ const subhajit = {
 **Languages**
 
 ![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
@@ -42,8 +43,6 @@ const subhajit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Subhajitbera007&show_icons=true&theme=nord&border_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitbera007&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
 
 </div>
 
