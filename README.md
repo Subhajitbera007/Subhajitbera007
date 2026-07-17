@@ -34,6 +34,10 @@ const subhajit = {
 
 **Languages**
 
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 
@@ -42,7 +46,12 @@ const subhajit = {
 ### 📊 GitHub Stats
 
 <div align="center">
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Subhajitbera007&show_icons=true&theme=nord&border_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitbera007&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
+
+</div>
 
 </div>
 
