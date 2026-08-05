@@ -125,17 +125,17 @@ Microsoft Azure        █████░░░░░░░░░░░░░░
 
 ## Certifications
 
-- Programming in Java â€” NPTEL Online Certification
-- Elementary Data Structures â€” Saylor Academy
-- Python for Data Science â€” IBM
-- Introduction to AI in Azure â€” Microsoft
+- Programming in Java - NPTEL Online Certification
+- Elementary Data Structures - Saylor Academy
+- Python for Data Science - IBM
+- Introduction to AI in Azure - Microsoft
 
 <br/>
 
 ## Coding Profiles
 
-- **GitHub** â€” 5 public repositories
-- **LeetCode** â€” 15 problems solved (Java, Python)
+- **GitHub**  5 public repositories
+- **LeetCode**  15 problems solved (Java, Python)
 
 <br/>
 
