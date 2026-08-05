@@ -157,7 +157,7 @@ Microsoft Azure        █████░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-  <sub>â­ Open to Software Developer internships and professional connections â€” let's build something together!</sub>
+  <sub> Open to Software Developer internships and professional connections â€” let's build something together!</sub>
 </div>
 </div>
 
