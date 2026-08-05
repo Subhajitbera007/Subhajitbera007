@@ -53,7 +53,7 @@ public class Subhajit {
         <img src="https://img.shields.io/badge/OOP-4285F4?style=flat-square" />
         <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square" />
       </p>
-      <a href="https://github.com/Subhajitbera007/Java-mini-projects"><strong>View Repo â†’</strong></a>
+      <a href="https://github.com/Subhajitbera007/Java-mini-projects"><strong>View Repo </strong></a>
     </td>
     <td width="50%">
       <h3>JAVA-basics-learning</h3>
@@ -63,7 +63,7 @@ public class Subhajit {
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Learning_Log-orange?style=flat-square" />
       </p>
-      <a href="https://github.com/Subhajitbera007/JAVA-basics-learning"><strong>View Repo â†’</strong></a>
+      <a href="https://github.com/Subhajitbera007/JAVA-basics-learning"><strong>View Repo </strong></a>
     </td>
   </tr>
 </table>
