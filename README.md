@@ -38,37 +38,6 @@ public class Subhajit {
 }
 ```
 
-<br/>
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Java Mini Projects</h3>
-      <p><strong>Core Java, OOP & DSA Practice Repository</strong></p>
-      <p>A growing collection of Java exercises and mini projects, including an ATM simulation that models real-world banking operations â€” balance inquiry, deposit, and withdrawal â€” built using solid OOP principles.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-4285F4?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSA-7c3aed?style=flat-square" />
-      </p>
-      <a href="https://github.com/Subhajitbera007/Java-mini-projects"><strong>View Repo </strong></a>
-    </td>
-    <td width="50%">
-      <h3>JAVA-basics-learning</h3>
-      <p><strong>Foundational Java Learning Repository</strong></p>
-      <p>Core Java fundamentals and syntax practice â€” the base I built while learning the language before moving into OOP and DSA-focused projects.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Learning_Log-orange?style=flat-square" />
-      </p>
-      <a href="https://github.com/Subhajitbera007/JAVA-basics-learning"><strong>View Repo </strong></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## Tech Stack
 
